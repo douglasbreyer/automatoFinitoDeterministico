@@ -1,0 +1,5 @@
+se
+entao
+senao
+<S> ::= *<A> | e<A> | i<A> | o<A> | u<A>
+<A> ::= *<A> | e<A> | i<A> | o<A> | u<A> | *
